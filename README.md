@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Team-THRUST_Avionics-orange?style=flat-square" alt="THRUST" />
 </p>
 
-I am an **Automation and Control Systems Engineering** student at the University of Padua, bridging rigorous mathematical theory with hands-on hardware design and embedded software development. My background combines a 5-year technical electronics diploma with university-level engineering research interests in robotics, real-time control, and intelligent systems.
+I am an **Automation and Control Systems Engineering** student at the University of Padua. My background combines a 5-year technical electronics diploma with university-level engineering research interests in robotics, real-time control, and intelligent systems.
 
 ---
 
@@ -21,8 +21,8 @@ I am an **Automation and Control Systems Engineering** student at the University
 ### 🛠️ Technical Stack
 
 * **Robotics & Simulation:** ROS 2 (Humble), MoveIt 2, URDF/Xacro, micro-ROS, NVIDIA Isaac Sim / Gym, Gymnasium.
-* **Control Systems & Embedded:** Field Oriented Control (SimpleFOC), LQR, PID, State-Space Models, ESP32, Arduino, ARM Cortex-M, CANbus, I2C, SPI.
-* **Programming & Tools:** C++, Python, Java, ARM v7 Assembly, MATLAB/Simulink, Git, Linux (Ubuntu/WSL2).
+* **Control Systems & Embedded:** Field Oriented Control (SimpleFOC), LQR, PID, State-Space Models, ESP32, RaspBerry Pi, Arduino, ARM Cortex-M, CANbus, I2C, SPI.
+* **Programming & Tools:** C++, Python, Java, ARM v7 Assembly, LabView, PLC - Ladder, Git, Linux (Ubuntu/WSL2).
 * **Hardware & Prototyping:** Autodesk Fusion 360, Shapr3D, Analog Circuit Design, PCB Prototyping, Rapid Additive Manufacturing.
 
 ---
