@@ -30,13 +30,13 @@ I am an **Automation and Control Systems Engineering** student at the University
 ### 🚀 Featured Engineering Projects
 
 * **[5-Axis Robotic Manipulator & Kinematics Pipeline](https://github.com/kushal-gollen)** *(C++, ROS 2 Humble, MoveIt 2, micro-ROS)*
-  * Articulated 5-axis arm modeled via URDF/Xacro with custom inverse kinematics and trajectory planning. Integrated micro-ROS firmware bridges for sub-millimeter repeatable hardware actuation.
+  * Articulated 5-axis arm modeled via URDF/Xacro with custom inverse kinematics and trajectory planning.
 * **[Double Inverted Pendulum: Deep RL vs. LQR Control](https://github.com/kushal-gollen)** *(Python, PyTorch, Gymnasium, SciPy)*
   * Comparative benchmark between model-free Deep Reinforcement Learning algorithms (PPO, SAC) and classical optimal control techniques (Linear Quadratic Regulator) on non-linear underactuated systems.
 * **[Single-Axis Reaction Wheel Inverted Pendulum (WIP)](https://github.com/kushal-gollen)** *(C++, ESP32, SimpleFOC, CAD)*
   * Brushless DC gimbal stabilization platform utilizing Field Oriented Control (FOC), absolute magnetic encoder feedback, and custom 3D-printed mechanical frames.
 * **[Bio-Inspired Multi-Legged Walking Robot](https://github.com/kushal-gollen)** *(C++, Embedded C, CAD)*
-  * Iterative biomimetic quadruped/hexapod platform integrating real-time inverse kinematics for multi-joint leg coordination and gait generation.
+  * Iterative biomimetic quadruped platform integrating inverse kinematics for multi-joint leg coordination.
 * **[Benchtop Linear Regulated Power Supply Unit](https://github.com/kushal-gollen)** *(Analog Electronics, PCB Design)*
   * Laboratory-grade variable DC power supply featuring transformer step-down stages, bridge rectification, multi-stage RC ripple filtering, and active short-circuit protection.
 
