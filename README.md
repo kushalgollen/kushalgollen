@@ -31,7 +31,7 @@ I am an **Automation and Control Systems Engineering** student at the University
 
 * **[5-Axis Robotic Manipulator & Kinematics Pipeline](https://github.com/kushal-gollen)** *(C++, ROS 2 Humble, MoveIt 2, micro-ROS)*
   * Articulated 5-axis arm modeled via URDF/Xacro with custom inverse kinematics and trajectory planning.
-* **[Double Inverted Pendulum: Deep RL vs. LQR Control](https://github.com/kushal-gollen)** *(Python, PyTorch, Gymnasium, SciPy)*
+* **[Double Inverted Pendulum: Deep RL vs. LQR Control](https://github.com/kushal-gollen)** *(Python, Gymnasium, SciPy)*
   * Comparative benchmark between model-free Deep Reinforcement Learning algorithms (PPO, SAC) and classical optimal control techniques (Linear Quadratic Regulator) on non-linear underactuated systems.
 * **[Single-Axis Reaction Wheel Inverted Pendulum (WIP)](https://github.com/kushal-gollen)** *(C++, ESP32, SimpleFOC, CAD)*
   * Brushless DC gimbal stabilization platform utilizing Field Oriented Control (FOC), absolute magnetic encoder feedback, and custom 3D-printed mechanical frames.
