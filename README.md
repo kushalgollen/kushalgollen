@@ -35,15 +35,15 @@ I am an **Automation and Control Systems Engineering** student at the University
   * Comparative benchmark between model-free Deep Reinforcement Learning algorithms (PPO, SAC) and classical optimal control techniques (Linear Quadratic Regulator) on non-linear underactuated systems.
 * **[Single-Axis Reaction Wheel Inverted Pendulum (WIP)](https://github.com/kushalgollen)** *(C++, ESP32, SimpleFOC, CAD)*
   * Brushless DC gimbal stabilization platform utilizing Field Oriented Control (FOC), absolute magnetic encoder feedback, and custom 3D-printed mechanical frames.
+* **[DIY Benchtop Power Supply Unit](https://github.com/kushalgollen)** *(Analog Electronics, PCB Design)*
+  * Laboratory-grade variable DC power supply featuring transformer step-down stages, bridge rectification, multi-stage RC ripple filtering, and active short-circuit protection.
 * **[Bio-Inspired Multi-Legged Walking Robot](https://github.com/kushalgollen)** *(C++, Embedded C, CAD)*
   * Iterative biomimetic quadruped platform integrating inverse kinematics for multi-joint leg coordination.
-* **[Benchtop Linear Regulated Power Supply Unit](https://github.com/kushalgollen)** *(Analog Electronics, PCB Design)*
-  * Laboratory-grade variable DC power supply featuring transformer step-down stages, bridge rectification, multi-stage RC ripple filtering, and active short-circuit protection.
 
 ---
 
 ### 📫 Connect With Me
 
 * **Email:** [your.email@studenti.unipd.it](mailto:your.email@studenti.unipd.it)
-* **LinkedIn:** [linkedin.com/in/kushal-gollen](https://linkedin.com/in/kushal-gollen)
+* **LinkedIn:** [linkedin.com/in/kushal-gollen](https://www.linkedin.com/in/kushal-gollen/)
 * **Location:** Verona / Padua, Italy
