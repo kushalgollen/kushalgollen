@@ -13,8 +13,8 @@ I am an **Automation and Control Systems Engineering** student at the University
 ### ⚡ Quick Facts & Academic Standouts
 * 🎓 **University:** B.Sc. in Automation and Control Systems Engineering, University of Padua (Expected 2028).
 * 📈 **Key Coursework Highlights:** Mathematical Analysis I (`30/30 con Lode`), General Physics I (`30/30`), Computer Architecture (`27/30`), Foundations of Computer Science (`27/30`).
-* 🚀 **Extracurricular:** Avionics (P-51 Mustang) & Electronics Division member at **THRUST** (UniPD Student Rocket & Propulsion Team).
-* 🛠️ **Hardware Foundation:** Solid 5-year technical background in industrial automation, PLC, TIA Portal, PCB design, and benchtop lab instrumentation prior to university.
+* 🚀 **Extracurricular:** Avionics & Electronics Division member at **THRUST** (UniPD Student Rocket & Propulsion Team).
+* 🛠️ **Hardware Foundation:** Solid 5-year technical background in industrial automation, PLC, TIA Portal, PCB design, and benchtop lab instrumentation before university.
 
 ---
 
