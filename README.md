@@ -33,11 +33,11 @@ I am an **Automation and Control Systems Engineering** student at the University
   * Articulated 5-axis arm modeled via URDF/Xacro with custom inverse kinematics and trajectory planning.
 * **[Double Inverted Pendulum: Deep RL vs. LQR Control](https://github.com/kushalgollen/Double-Inverted-Pendulum-Deep-RL-vs.-LQR-Control)** *(Python, Gymnasium, SciPy)*
   * Comparative benchmark between model-free Deep Reinforcement Learning algorithms (PPO, SAC) and classical optimal control techniques (Linear Quadratic Regulator) on non-linear underactuated systems.
-* **[Single-Axis Reaction Wheel Inverted Pendulum (WIP)](https://github.com/kushalgollen)** *(C++, ESP32, SimpleFOC, CAD)*
+* **[Single-Axis Reaction Wheel Inverted Pendulum (WIP)](https://github.com/kushalgollen/Single-Axis-Reaction-Wheel-Inverted-Pendulum-(WIP))** *(C++, ESP32, SimpleFOC, CAD)*
   * Brushless DC gimbal stabilization platform utilizing Field Oriented Control (FOC), absolute magnetic encoder feedback, and custom 3D-printed mechanical frames.
-* **[DIY Benchtop Power Supply Unit](https://github.com/kushalgollen/DIY-Benchtop-Power-Supply-Unit.git)** *(Analog Electronics, CAD, Circuit Design)*
+* **[DIY Benchtop Power Supply Unit](https://github.com/kushalgollen/DIY-Benchtop-Power-Supply-Unit)** *(Analog Electronics, CAD, Circuit Design)*
   * Laboratory-grade variable DC power supply featuring transformer step-down stages, bridge rectification, multi-stage RC ripple filtering, and active short-circuit protection.
-* **[Bio-Inspired Multi-Legged Walking Robot](https://github.com/kushalgollen)** *(C++, Embedded C, CAD)*
+* **[Bio-Inspired Multi-Legged Walking Robot]** *(C++, Embedded C, CAD)*
   * Iterative biomimetic quadruped platform integrating inverse kinematics for multi-joint leg coordination.
 
 ---
