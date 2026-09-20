@@ -44,6 +44,6 @@ I am an **Automation and Control Systems Engineering** student at the University
 
 ### 📫 Connect With Me
 
-* **Email:** [your.email@studenti.unipd.it](mailto:your.email@studenti.unipd.it)
+* **Email:** [kushal.gollen@studenti.unipd.it](mailto:kushal.gollen@studenti.unipd.it)
 * **LinkedIn:** [linkedin.com/in/kushal-gollen](https://www.linkedin.com/in/kushal-gollen/)
 * **Location:** Verona / Padua, Italy
