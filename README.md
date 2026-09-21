@@ -3,7 +3,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kushal-gollen&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-B.Sc._Automation_Engineering_%40_UniPD-blue?style=flat-square" alt="UniPD" />
-  <img src="https://img.shields.io/badge/Team-THRUST_Avionics-orange?style=flat-square" alt="THRUST" />
 </p>
 
 I am an **Automation and Control Systems Engineering** student at the University of Padua. My background combines a 5-year technical electronics diploma with university-level engineering research interests in robotics, real-time control, and intelligent systems.
@@ -13,7 +12,7 @@ I am an **Automation and Control Systems Engineering** student at the University
 ### ⚡ Quick Facts & Academic Standouts
 * 🎓 **University:** B.Sc. in Automation and Control Systems Engineering, University of Padua (Expected 2028).
 * 📈 **Key Coursework Highlights:** Mathematical Analysis I (`30/30 with Honors`), General Physics I (`30/30`), Computer Architecture (`27/30`), Foundations of Computer Science (`27/30`).
-* 🚀 **Extracurricular:** Avionics & Electronics Division member at **THRUST** (UniPD Student Rocket & Propulsion Team).
+* 🚀 **Extracurricular:** Sending coordinator @ Intercultura - AFS Italy.
 * 🛠️ **Hardware Foundation:** Solid 5-year technical background in industrial automation, PLC, TIA Portal, PCB design, and benchtop lab instrumentation before university.
 
 ---
