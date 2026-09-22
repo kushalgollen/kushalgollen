@@ -28,7 +28,7 @@ I am an **Automation and Control Systems Engineering** student at the University
 
 ### 🚀 Featured Engineering Projects
 
-* **[5-DOF Robotic Manipulator & Kinematics Pipeline](https://github.com/kushalgollen)** *(C++, ROS 2 Humble, MoveIt 2, micro-ROS)*
+* **[5-DOF Robotic Manipulator & Kinematics Pipeline](https://github.com/kushalgollen/5-DOF-Robotic-Arm-and-Kinematics-Pipeline.git)** *(C++, ROS 2 Humble, MoveIt 2, micro-ROS)*
   * Articulated 5-axis arm modeled via URDF/Xacro with custom inverse kinematics and trajectory planning.
 * **[Double Inverted Pendulum: Deep RL vs. LQR Control](https://github.com/kushalgollen/Double-Inverted-Pendulum-Deep-RL-vs.-LQR-Control)** *(Python, Gymnasium, SciPy)*
   * Comparative benchmark between model-free Deep Reinforcement Learning algorithms (PPO, SAC) and classical optimal control techniques (Linear Quadratic Regulator) on non-linear underactuated systems.
