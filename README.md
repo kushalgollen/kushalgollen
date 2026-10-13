@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Status-B.Sc._Automation_Engineering_%40_UniPD-blue?style=flat-square" alt="UniPD" />
 </p>
 
-I am an **Automation and Control Systems Engineering** student at the University of Padua. My background combines a 5-year technical electronics diploma with university-level engineering research interests in robotics, real-time control, and intelligent systems.
+I am an **Automation and Control Systems Engineering** student at the University of Padua. My background combines a 5-year technical electronics diploma with university-level engineering research interests in nonlinear & precision control systems, real-time control, and intelligent systems.
 
 ---
 
